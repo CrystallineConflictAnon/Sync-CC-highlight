@@ -11,7 +11,7 @@ Thingy that highlights CC casual queue calls on `/xivg/`
 - [Violentmonkey](https://violentmonkey.github.io/)
 
 
-2. [Click here to install the actual thingy](https://raw.githubusercontent.com/CrystallineConflictAnon/Sync-CC-posts-highlight/main/xivg_callout_highlighter.user.js).
+2. [Click here to install the actual thingy](https://raw.githubusercontent.com/CrystallineConflictAnon/Sync-CC-highlight/main/xivg_callout_highlighter.user.js).
 
 ## What it does
 
