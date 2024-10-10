@@ -17,7 +17,7 @@
     const KEYWORDS = ["cc", "casual", "queue", "queues"];
 
     // I hate regex (used for finding ET times in the post, helps avoiding irrelevant highlighting)
-    const TIME_REGEX = /\b\d{1,2}(?::\d{2})?\s*(?:AM|PM)?\s*(?:ET|Eorzea Time)?\b/i;
+    const TIME_REGEX = /\b\d{1,2}(?::\d{2})?\s*(?:AM|PM)?\s*ET\b/i;
 
     // Funny border for the post
     const HIGHLIGHT_CSS = `
